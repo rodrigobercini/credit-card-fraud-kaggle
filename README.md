@@ -718,7 +718,7 @@ print(pd.DataFrame(cm))
     1     22  82
     
 
-# Mecanismo de Votação (Enesemble Voting Classifier)
+# Mecanismo de Votação (Ensemble Voting Classifier)
 
 
 Curiosamente, o modelo mais simples, Regressão Logística, mostrou o melhor resultado. Depois de reunir os três modelos em um mecanismo de votação, o score ficou melhor ainda.
